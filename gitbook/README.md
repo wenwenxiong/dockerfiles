@@ -1,2 +1,2 @@
-build nginx iamges
-$ docker build -t="dockerfile/nginx" .
+build gitbook iamges
+$ docker build -t="dockerfile/gitbook" .
